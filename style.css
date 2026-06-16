@@ -5,20 +5,20 @@
 
 /* ---------- CSS Variables ---------- */
 :root {
-  --blue-50:  #e8f4fd;
-  --blue-100: #bbdefb;
-  --blue-200: #90caf9;
-  --blue-400: #42a5f5;
-  --blue-500: #2196f3;
-  --blue-600: #1e88e5;
-  --blue-700: #1565c0;
-  --blue-900: #0d47a1;
-  --slate:    #546e7a;
-  --slate-light: #90a4ae;
-  --white:    #ffffff;
-  --off-white: #f0f7ff;
-  --text-dark: #1a2a3a;
-  --text-body: #374151;
+  --blue-50:  #d6eaea;
+  --blue-100: #b0d4d4;
+  --blue-200: #3c7b7f;
+  --blue-400: #3c7b7f;
+  --blue-500: #255853;
+  --blue-600: #255853;
+  --blue-700: #286363;
+  --blue-900: #1a3d3d;
+  --slate:    #ffffff;
+  --slate-light: #cccccc;
+  --white:    #1a1a1a;
+  --off-white: #111111;
+  --text-dark: #ffffff;
+  --text-body: #eeeeee;
 
   --shadow-sm:  0 1px 4px rgba(33, 150, 243, 0.08);
   --shadow-md:  0 4px 16px rgba(33, 150, 243, 0.12);
