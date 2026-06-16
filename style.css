@@ -201,11 +201,12 @@ img { max-width: 100%; display: block; }
 .hero-content {
   position: relative;
   z-index: 1;
-  max-width: 700px;
+  max-width: 600px;
+  left: -3-px;
 }
   .hero-content {
   min-width: 992px
-   margin: 0 auto;
+  margin: 0 auto;
   transform: translateX(40px);
   bottom: 50px;
 }
