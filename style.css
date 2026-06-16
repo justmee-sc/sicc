@@ -60,11 +60,11 @@ img { max-width: 100%; display: block; }
   top: 0; left: 0; right: 0;
   z-index: 100;
   padding: 18px 0;
-  transition: background var(--transition), box-shadow var(--transition), padding var(--transition);
+  background: rgba(0, 0, 0, 0.7);
 }
 
 .navbar.scrolled {
-  background: rgba(255, 255, 255, 0.96);
+  background: rgba(0, 0, 0, 9);
   box-shadow: 0 2px 16px rgba(33, 150, 243, 0.12);
   padding: 12px 0;
   backdrop-filter: blur(8px);
