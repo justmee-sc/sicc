@@ -174,7 +174,7 @@ img { max-width: 100%; display: block; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, var(--blue-700) 0%, var(--blue-500) 45%, var(--blue-400) 75%, var(--blue-200) 100%);
+  background: url('contoh bg sicc.jpeg') center/cover no-repeat;
 }
 
 /* Decorative circles */
@@ -186,9 +186,10 @@ img { max-width: 100%; display: block; }
   opacity: 0.12;
 }
 .hero-bg::before {
-  width: 600px; height: 600px;
-  background: white;
-  top: -150px; right: -100px;
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(21, 101, 192, 0.6);
 }
 .hero-bg::after {
   width: 400px; height: 400px;
