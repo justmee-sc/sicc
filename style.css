@@ -189,7 +189,7 @@ img { max-width: 100%; display: block; }
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(21, 101, 192, 0.6);
+  background: rgba(21, 101, 192, 0.5);
 }
 .hero-bg::after {
   width: 400px; height: 400px;
