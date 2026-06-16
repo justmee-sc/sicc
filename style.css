@@ -64,7 +64,7 @@ img { max-width: 100%; display: block; }
 }
 
 .navbar.scrolled {
-  background: rgba(0, 0, 0, 9);
+  background: rgba(0, 0, 0, 0.9);
   box-shadow: 0 2px 16px rgba(33, 150, 243, 0.12);
   padding: 12px 0;
   backdrop-filter: blur(8px);
