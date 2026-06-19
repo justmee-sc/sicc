@@ -829,4 +829,11 @@ img { max-width: 100%; display: block; }
   .hero-actions { flex-direction: column; }
   .btn { width: 100%; text-align: center; }
   .hero-stats { flex-wrap: wrap; justify-content: center; }
+
+@media (max-width: 680px) {
+  .hero-content img {
+   max-width: 280px;
+   width: 85%;
+   margin: 0 auto;
+  }
 }
