@@ -832,8 +832,10 @@ img { max-width: 100%; display: block; }
 
 @media (max-width: 680px) {
   .hero-content img {
-   max-width: 280px;
-   width: 85%;
+   max-width: 100%;
+   width: 90%;
+   padding: 0 20px;
+     box-sizing: border-box;
    margin: 0 auto;
   }
 }
